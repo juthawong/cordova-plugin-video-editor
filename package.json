@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-video-editor",
+  "version": "1.2.0",
+  "description": "Cordova Video Editor Plugin",
+  "cordova": {
+    "id": "cordova-plugin-video-editor",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kmturley/cordova-plugin-video-editor"
+  },
+  "keywords": [
+    "cordova",
+    "video",
+    "editor",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "peerDependencies": {
+  },
+  "author": "kmturley",
+  "license": "Apache 2.0"
+}
